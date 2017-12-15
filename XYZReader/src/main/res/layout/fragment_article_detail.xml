@@ -24,7 +24,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="@dimen/detail_photo_height"
                     android:adjustViewBounds="true"
-                    android:scaleType="fitXY"/>
+                    android:scaleType="centerCrop"/>
 
                 <View
                     android:layout_width="match_parent"

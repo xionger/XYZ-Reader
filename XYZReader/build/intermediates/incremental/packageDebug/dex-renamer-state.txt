@@ -1,0 +1,7 @@
+#Sat Dec 16 16:03:48 CST 2017
+base.0=/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c8d6ade8aa0511f5ef55bc00b269c71adc8f27a7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_04dc88f1ed5018c1795b8e74c57ed688073a6b59/classes.dex
+base.1=/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_04dc88f1ed5018c1795b8e74c57ed688073a6b59
+file.0=/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c8d6ade8aa0511f5ef55bc00b269c71adc8f27a7/classes.dex

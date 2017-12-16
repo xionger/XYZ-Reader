@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Howardx/.android/build-cache/a1c698fb31d625b928461ab3f62e684ce815c381/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Howardx/.android/build-cache/a1c698fb31d625b928461ab3f62e684ce815c381/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Howardx/.android/build-cache/a1c698fb31d625b928461ab3f62e684ce815c381/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Howardx/.android/build-cache/a1c698fb31d625b928461ab3f62e684ce815c381/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -8,12 +8,11 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
-    <android.support.design.widget.AppBarLayout
+    <FrameLayout
         android:id="@+id/up_container"
         android:background="@android:color/transparent"
         android:layout_width="match_parent"
-        android:layout_height="?actionBarSize"
-        app:elevation="0dp">
+        android:layout_height="?actionBarSize">
 
         <ImageButton
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
@@ -23,5 +22,5 @@
             android:background="?selectableItemBackgroundBorderless"
             android:contentDescription="@string/up"
             android:src="@drawable/ic_arrow_back" />
-    </android.support.design.widget.AppBarLayout>
+    </FrameLayout>
 </FrameLayout>

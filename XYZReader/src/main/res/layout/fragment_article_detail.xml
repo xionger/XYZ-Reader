@@ -101,6 +101,7 @@
         android:layout_height="wrap_content"
         android:src="@drawable/ic_share"
         android:contentDescription="@string/action_share"
+        android:elevation="@dimen/fab_elevation"
         app:layout_anchor="@id/article_title"
         app:layout_anchorGravity="bottom|right|end"/>
 

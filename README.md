@@ -11,8 +11,8 @@ This is a project for Android Developer Nanodegree program. I was given a functi
 
 ## Screens
 
-<img src="../master/screenshots/xyz-screenshots-1.png" alt="alt text" width="400"> <img src="../master/screenshots/xyz-screenshots-2.png" alt="alt text" width="400">
+<img src="../master/screenshots/xyz-screenshot-1.png" alt="alt text" width="400"> <img src="../master/screenshots/xyz-screenshot-2.png" alt="alt text" width="400">
 
-<img src="../master/screenshots/xyz-screenshots-3.png" alt="alt text" width="800"> 
+<img src="../master/screenshots/xyz-screenshot-3.png" alt="alt text" width="800"> 
 
-<img src="../master/screenshots/xyz-screenshots-4.png" alt="alt text" width="800">
+<img src="../master/screenshots/xyz-screenshot-4.png" alt="alt text" width="800">

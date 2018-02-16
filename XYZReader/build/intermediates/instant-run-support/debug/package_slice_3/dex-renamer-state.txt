@@ -1,0 +1,4 @@
+#Thu Feb 15 22:28:47 CST 2018
+base.0=/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3
+renamed.0=classes.dex
+file.0=/Users/Howardx/Documents/adn/XYZ-Reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex
